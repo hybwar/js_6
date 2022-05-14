@@ -68,7 +68,5 @@ const app = new Vue({
                     this.$data.filtered.push(item);
                 }
             });
-
     }
-
 });
